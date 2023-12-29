@@ -1,0 +1,6 @@
+Rename a column in pandas
+df. rename(columns = {'old_col1':'new_col1', 'old_col2':'new_col2'}, inplace = True)
+
+Drop a row or column in pandas
+dataframe.drop(labels, axis, index, columns, level, inplace., errors)
+
